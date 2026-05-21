@@ -160,5 +160,5 @@ cython_debug/
 .idea/
 
 # custom files
-assignments/01_assignment_julius.ipynb
-assignments/02_assignment_fabio.ipynb
+*_julius.ipynb
+*_fabio.ipynb
